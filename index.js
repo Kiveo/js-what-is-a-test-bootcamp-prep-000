@@ -4,4 +4,4 @@ var height = 74
 var message = `${name} is ${height} inches tall`
 
 module.exports = {name, height, message}
-// testing locally : console.log(message);
+// tested locally : console.log(message);
